@@ -12,7 +12,7 @@ Luminor is a minimalist programming language built on top of C#. It is designed 
 
 ### Prerequisites
 
-- .NET SDK (version 5.0 or higher)
+- .NET SDK (version 8.0.* or higher)
 
 ### Installation
 
